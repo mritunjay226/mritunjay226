@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mritunjay+%F0%9F%91%8B;I+build+apps%2C+tools%2C+and+AI+experiences+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Always+learning%2C+building%2C+shipping+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mritunjay+%F0%9F%91%8B;I+build+apps%2C+tools%2C+and+creative+experiences;Full+Stack+Developer+%7C+AI+Enthusiast" alt="Typing animation" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-Full+Stack-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web%20%7C%20Automation-22C55E?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web%20%7C%20Creative%20Tools-22C55E?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <h3 align="center">🚀 Building ideas into products, one line at a time.</h3>
 
 <p align="center">
-  I’m a developer who loves turning ideas into real-world products — from websites and dashboards to AI tools, automation workflows, and scalable applications.
+  I'm a developer who loves turning ideas into real-world products — from creative web experiences and AI-powered tools to full-stack applications and automation workflows.
 </p>
 
 <p align="center">
   <a href="https://github.com/mritunjay226">
     <img src="https://img.shields.io/badge/GitHub-@mritunjay226-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:mritunjay226@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/mritunjay226">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -32,13 +32,14 @@
 
 I enjoy building:
 
-- Full-stack web apps
-- AI-powered products
-- Automation scripts and tools
-- Clean UI/UX experiences
-- Systems that solve real problems
+- Full-stack web applications with modern tech
+- AI-powered and creative tools
+- Interactive animations and motion graphics
+- Automation scripts and workflows
+- Clean UI/UX experiences that delight users
+- Systems that solve real-world problems
 
-I’m passionate about learning new tech, shipping projects, and improving the way people use software.
+I'm passionate about learning new technologies, shipping projects, and improving how people interact with software.
 
 ---
 
@@ -47,15 +48,15 @@ I’m passionate about learning new tech, shipping projects, and improving the w
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Web%20Apps-React%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" /><br/>
-      Modern interfaces and scalable frontend experiences
+      <img src="https://img.shields.io/badge/Web%20Apps-React%20%7C%20Next.js%20%7C%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=white" /><br/>
+      Modern, responsive interfaces and scalable frontend experiences
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AI%20Tools-ML%20%7C%20LLMs-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" /><br/>
-      Smart tools, prompts, assistants, and automation
+      <img src="https://img.shields.io/badge/AI%20%26%20Creative-Music%20Gen%20%7C%20Motion%20Graphics-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+      Smart tools, generative experiences, and creative automation
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20API-22C55E?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20APIs-22C55E?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
       Reliable APIs, backend systems, and product logic
     </td>
   </tr>
@@ -82,42 +83,57 @@ I’m passionate about learning new tech, shipping projects, and improving the w
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Featured Projects
 
-Here are some example project sections — replace them with your actual repositories:
+### 🎵 **Music Generator App**
+[Explore](https://github.com/mritunjay226/music-generator-app) - AI-powered music generation tool. Create unique compositions with smart algorithms. Built with TypeScript and modern web technologies.
 
-- [Portfolio Website](https://github.com/mritunjay226/your-portfolio)
-- [AI Assistant App](https://github.com/mritunjay226/your-ai-app)
-- [Task Management Dashboard](https://github.com/mritunjay226/your-task-dashboard)
-- [E-commerce Platform](https://github.com/mritunjay226/your-ecommerce-app)
-- [Automation Tool](https://github.com/mritunjay226/your-automation-tool)
+### 🎬 **Motion Graphic Reel**
+[Explore](https://github.com/mritunjay226/motion-graphic-reel) - Stunning motion graphics and animations. Showcase of creative visual effects and interactive animations using cutting-edge web technologies.
 
-> Replace the links above with your real project repositories to make the profile feel personal and authentic.
+### 🖥️ **MacOS Portfolio**
+[Explore](https://github.com/mritunjay226/MacOs-Portfolio) - Beautiful macOS-inspired portfolio interface. A modern, sleek design recreation showcasing UI/UX excellence with JavaScript and React.
+
+### 🍔 **Shyam Restaurant**
+[Explore](https://github.com/mritunjay226/shyam_restaurant) - Full-stack restaurant management application. Frontend built with React/TypeScript, featuring order management, reservations, and modern UI.
+
+### 🍴 **Shyam Restaurant Backend**
+[Explore](https://github.com/mritunjay226/shyam_restaurant_backend) - Backend API for restaurant operations. Built with Node.js/Express, handling database operations, authentication, and business logic.
+
+### 👕 **PoshaakWala Backend**
+[Explore](https://github.com/mritunjay226/PoshaakWala-Backend) - E-commerce backend service. RESTful APIs for product management, inventory, and order processing.
+
+### 📚 **Student Innovation Project**
+[Explore](https://github.com/mritunjay226/student-innovation-project) - Full-stack educational platform. TypeScript-based project showcasing innovation in learning management systems.
+
+### 💬 **BroTalk**
+[Explore](https://github.com/mritunjay226/BroTalk) - Real-time communication application. Connect and chat seamlessly with an intuitive interface.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mritunjay226&show_icons=true&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mritunjay226&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mritunjay226&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mritunjay226&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjay226&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjay226&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🎯 Currently Building
 
-- Real-world projects with clean architecture
-- AI and automation-based developer tools
-- Responsive, user-focused experiences
-- Better APIs and scalable systems
+- Real-world projects with clean, scalable architecture
+- AI and generative tools for creative professionals
+- Full-stack applications that users love
+- Responsive, performance-optimized experiences
+- Better APIs and robust backend systems
 
 ---
 
@@ -125,29 +141,32 @@ Here are some example project sections — replace them with your actual reposit
 
 I believe good software is:
 
-- Simple
-- Useful
-- Fast
-- Scalable
-- Built with intention
+- **Simple** — Easy to understand and use
+- **Useful** — Solves real problems
+- **Fast** — Optimized for performance
+- **Scalable** — Built to grow
+- **Beautiful** — Designed with intention
 
-I enjoy solving real problems, writing clean code, and continuously learning.
+I enjoy solving complex problems, writing clean code, collaborating with teams, and continuously learning new technologies.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-If you’re building something cool, want to collaborate, or just talk tech, feel free to reach out.
+If you're building something cool, want to collaborate, or just want to talk tech, feel free to reach out!
 
 <p align="center">
   <a href="https://github.com/mritunjay226">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/mritunjay226">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mritunjay226@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mritunjay226%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks%20for%20visiting!&height=80&fontSize=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks%20for%20visiting!&height=80&fontSize=32" alt="Thanks for visiting" />
 </p>
